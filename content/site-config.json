@@ -1,0 +1,44 @@
+{
+  "site": {
+    "name": "Asim Iqbal Gem",
+    "tagline": "Timeless Elegance, Crafted to Perfection",
+    "description": "Discover exquisite jewelry pieces crafted with precision and passion. From timeless classics to contemporary designs.",
+    "url": "https://asimiqbalgem.com",
+    "ogImage": "/og-image.jpg",
+    "links": {
+      "instagram": "https://instagram.com/asimiqbalgem",
+      "facebook": "https://facebook.com/asimiqbalgem"
+    }
+  },
+  "navigation": [
+    {
+      "title": "Home",
+      "href": "/",
+      "description": "Discover our world of luxury"
+    },
+    {
+      "title": "What We Do",
+      "href": "/services",
+      "description": "Our services and expertise"
+    },
+    {
+      "title": "About",
+      "href": "/about",
+      "description": "Our story and craftsmanship"
+    },
+    {
+      "title": "Contact",
+      "href": "/contact",
+      "description": "Get in touch with us"
+    }
+  ],
+  "contact": {
+    "phone": "+1 (555) 123-4567",
+    "email": "info@asimiqbalgem.com",
+    "address": "123 Luxury Avenue, New York, NY 10001",
+    "hours": {
+      "weekdays": "Monday - Friday: 10:00 AM - 7:00 PM",
+      "weekends": "Saturday - Sunday: 11:00 AM - 6:00 PM"
+    }
+  }
+}
