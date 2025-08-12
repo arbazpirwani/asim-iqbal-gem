@@ -14,6 +14,8 @@ const nextConfig = {
   eslint: {
     ignoreDuringBuilds: true,
   },
+  basePath: process.env.NODE_ENV === 'production' ? '/asim-iqbal-gem' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/asim-iqbal-gem/' : '',
 };
 
 export default nextConfig;
